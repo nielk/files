@@ -1,0 +1,4 @@
+echo "Processing Test & Lint on front-end stuffs"
+cd front-end/ && npm test
+exit 0
+
